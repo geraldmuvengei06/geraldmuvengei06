@@ -23,7 +23,7 @@ I build with **security in mind**, leveraging large-scale frontend templates, Tu
 
 What I’m building:
 - Intelligent resume–JD matching using **embeddings & semantic similarity**
-- AI-assisted resume rewriting with **Amazon Bedrock LLM/AI model integrations**
+- AI-assisted resume rewriting with **OpenAI LLM integrations**
 - **OpenAPI** specification-driven architecture
 - ATS-aware keyword and sentence-level scoring
 - Fast, clean UX for real-time feedback
@@ -31,7 +31,7 @@ What I’m building:
 **Stack**
 - Frontend: React / Next.js, Tailwind
 - Backend: FastAPI / Python
-- AI: Amazon Bedrock, LLMs, embeddings, cosine similarity
+- AI: OpenAI, LLMs, embeddings, cosine similarity
 - Infra: Docker, AWS (EC2 for now, IaC planned with Terraform)
 - Database: PostgreSQL
 
@@ -79,7 +79,7 @@ What I’m building:
 ### Data & AI
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapi-initiative&logoColor=white)
 
 ---
@@ -87,7 +87,7 @@ What I’m building:
 ## 🧩 Selected Projects
 
 ### **ResumeTarget AI**
-AI-driven resume customization platform helping users align their resumes to job descriptions using semantic matching and Amazon Bedrock LLM integrations.
+AI-driven resume customization platform helping users align their resumes to job descriptions using semantic matching and OpenAI LLM integrations.
 🌐 [resumetargetai.com](https://resumetargetai.com)
 
 ### **Enterprise Oil & Gas Platforms**
@@ -150,8 +150,14 @@ If that aligns — let’s talk.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geraldmuvengei06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geraldmuvengei06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldmuvengei06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldmuvengei06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geraldmuvengei06&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=geraldmuvengei06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
