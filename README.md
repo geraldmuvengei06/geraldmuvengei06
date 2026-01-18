@@ -102,23 +102,25 @@ Crowdfunding platform built with Next.js and TypeScript.
 
 ## 💼 Professional Experience
 
-**Frontend Engineer / Frontend Lead — Volane (UAE)**  
+**Frontend Engineer / Frontend Lead — Volane (UAE)** • *2+ years*  
 - Led frontend development for multiple enterprise applications
 - Improved API-driven data retrieval by **50%**
 - Reduced CI/CD build times by **30%**
 - Implemented micro-frontend architecture
 - Delivered secure platforms for oil & gas clients across Africa
 
-**Frontend Developer — Kensoko (Nairobi)**  
+**Frontend Developer — Kensoko (Nairobi)** • *2+ years*  
 - Migrated legacy apps to modern frameworks
 - Boosted SEO traffic and conversions
 - Built and integrated payment and third-party APIs
 - Optimized VPS infrastructure for performance
 
-**Full-Stack Developer — Inspirehub (Mastermind Wireless)**  
+**Full-Stack Developer — Inspirehub (Mastermind Wireless)** • *1+ year*  
 - Delivered custom web apps
 - Automated manual business processes
 - Reduced bug reports and maintenance overhead
+
+[**📖 Read more about my experience →**](https://geraldm.vercel.app)
 
 ---
 
