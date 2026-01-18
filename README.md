@@ -6,8 +6,8 @@ Kenya 🇰🇪
 I’m a results-driven software engineer with **5+ years of experience** building scalable, user-centric web applications across startups and enterprise environments. My work sits at the intersection of **frontend architecture, cloud infrastructure, and applied AI** — focused on shipping real products that solve real problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://geraldm.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldmuvengei06)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/geraldmuvengei2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldmuvengei06)
+[![](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/geraldmuvengei2)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:geraldmuvengei06@gmail.com)
 
 📋 Resume: Available on request
