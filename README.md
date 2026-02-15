@@ -3,7 +3,7 @@
 Frontend Lead • Full-Stack Engineer • Cloud & AI-Driven Products  
 Kenya 🇰🇪
 
-I’m a results-driven software engineer with **5+ years of experience** building scalable, user-centric web applications across startups and enterprise environments. My work sits at the intersection of **frontend architecture, cloud infrastructure, and applied AI** — focused on shipping real products that solve real problems.
+I'm a results-driven software engineer with **5+ years of experience** building scalable, user-centric web applications across startups and enterprise environments. My work sits at the intersection of **frontend architecture, cloud infrastructure, and applied AI** — focused on shipping real products that solve real problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://geraldm.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldmuvengei06)
@@ -16,24 +16,12 @@ I build with **security in mind**, leveraging large-scale frontend templates, Tu
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Currently Working On
 
-### **ResumeTarget AI** — *In Active Development*
-**An AI-powered platform that helps job applicants match & customize their resume to a specific job description.**
+### **ResumeTarget AI**
+An AI-powered platform that helps job seekers tailor their resumes to specific job descriptions using semantic matching, LLM-driven rewriting, and ATS-aware scoring.
 
-What I’m building:
-- Intelligent resume–JD matching using **embeddings & semantic similarity**
-- AI-assisted resume rewriting with **OpenAI LLM integrations**
-- **OpenAPI** specification-driven architecture
-- ATS-aware keyword and sentence-level scoring
-- Fast, clean UX for real-time feedback
-
-**Stack**
-- Frontend: React / Next.js, Tailwind
-- Backend: FastAPI / Python
-- AI: OpenAI, LLMs, embeddings, cosine similarity
-- Infra: Docker, AWS (EC2 for now, IaC planned with Terraform)
-- Database: PostgreSQL
+**Stack:** React / Next.js, Tailwind, FastAPI, Python, OpenAI, PostgreSQL, Docker, AWS
 
 🌐 [resumetargetai.com](https://resumetargetai.com)
 
@@ -84,46 +72,6 @@ What I’m building:
 
 ---
 
-## 🧩 Selected Projects
-
-### **ResumeTarget AI**
-AI-driven resume customization platform helping users align their resumes to job descriptions using semantic matching and OpenAI LLM integrations.
-🌐 [resumetargetai.com](https://resumetargetai.com)
-
-### **Enterprise Oil & Gas Platforms**
-Enterprise-grade frontend systems used by large oil & gas corporates across Africa.
-- Vue, Nuxt, React, CI/CD
-- Security-focused, high-availability systems
-
-### **FanFundr**
-Crowdfunding platform built with Next.js and TypeScript.
-
----
-
-## 💼 Professional Experience
-
-**Frontend Engineer / Frontend Lead — Volane (UAE)** • *2+ years*  
-- Led frontend development for multiple enterprise applications
-- Improved API-driven data retrieval by **50%**
-- Reduced CI/CD build times by **30%**
-- Implemented micro-frontend architecture
-- Delivered secure platforms for oil & gas clients across Africa
-
-**Frontend Developer — Kensoko (Nairobi)** • *2+ years*  
-- Migrated legacy apps to modern frameworks
-- Boosted SEO traffic and conversions
-- Built and integrated payment and third-party APIs
-- Optimized VPS infrastructure for performance
-
-**Full-Stack Developer — Inspirehub (Mastermind Wireless)** • *1+ year*  
-- Delivered custom web apps
-- Automated manual business processes
-- Reduced bug reports and maintenance overhead
-
-[**📖 Read more about my experience →**](https://geraldm.vercel.app)
-
----
-
 ## 📜 Certifications
 - **Microsoft Certified: Security, Compliance, and Identity Fundamentals**
 - **Cyber Shujaa Software Security Specialist** (Course & Certificate)
@@ -132,20 +80,13 @@ Crowdfunding platform built with Next.js and TypeScript.
 
 ---
 
-## ✍🏽 Writing & Community
-- Technical articles on frontend architecture and scalable systems
-- Open-source contributions
-- Hackathon participant (AI & cloud-focused)
-
----
-
-## 🤝 Let’s Build
-I’m interested in:
+## 🤝 Let's Build
+I'm interested in:
 - Frontend-heavy roles with architectural ownership
 - Cloud-native product teams
 - AI-powered SaaS platforms
 - Challenging problems with real users
 
-If that aligns — let’s talk.
+If that aligns — let's talk.
 
 ---
